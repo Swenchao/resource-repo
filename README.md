@@ -1,1 +1,3 @@
-# resource-repo
+# None
+
+博客相关静态资源
